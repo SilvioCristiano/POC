@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 10 19:24:52 BRT 2024
+asm-9.6.jar>my-mirror=
+asm-9.6.pom>my-mirror=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 10 21:06:16 BRT 2024
+micrometer-observation-1.12.6.jar>my-mirror=
+micrometer-observation-1.12.6.pom>my-mirror=
